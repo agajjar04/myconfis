@@ -14,9 +14,9 @@ set statusline=%F%m%r%<\ %=%l,%v\ [%L]\ %p%%
 syntax on
 
 set title
-set autoindent
+"set autoindent
 "set smartindent
-"set tabstop=4        " tab width is 4 spaces
+set tabstop=4        " tab width is 4 spaces
 "set shiftwidth=4     " indent also with 4 spaces
 "set expandtab        " expand tabs to spaces
 		     " wrap lines at 120 chars. 80 is somewaht antiquated with nowadays displays.

@@ -1,0 +1,14 @@
+[user]
+	name = Akash Gajjar
+	email = Akash_Gajjar@mentor.com
+[core]
+	editor = vim
+[color]
+	ui = auto
+[push]
+	default = simple
+[sendemail]
+	smtpEncryption = tls
+	smtpServer = smtp.gmail.com
+	smtpUser = gajjar04akash@gmail.com
+	smtpServerPort = 587
